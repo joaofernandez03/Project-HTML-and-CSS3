@@ -1,0 +1,75 @@
+#fundo {
+	background-image: url('imagens/fundo.png');
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+}
+
+#fundo2 {
+	background-image: url('imagens/fundo2.png');
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+}
+
+#principal {
+	background-image: url('imagens/logo.png');
+	background-repeat: no-repeat;
+	background-position: left;
+	width: 900px;
+	height: 95px;
+	margin: 0 auto;
+	text-align: right;
+	line-height: 89px;
+}
+
+a {
+	text-decoration: none;
+	padding: 5px;
+	color: gray;
+}
+
+#capa {
+	background-image: url('imagens/capa.png');
+	background-repeat: no-repeat;
+	width: 900px;
+	height: 413px;
+	margin: 0 auto;
+}
+
+#rodape {
+	width: 900px;
+	margin: 0 auto;
+	font-size: 16px;
+	font-weight: 549;
+}
+
+h1 {
+	font-size: 25px;
+}
+
+#direitos {
+	margin: 0 auto;
+	width: 900px;
+	height: 100px;
+	text-align: center;
+	padding: 3px;
+}
+
+h2 {
+	font-size: 17px;
+}
+
+#titulo {
+	width: 900px;
+	height: 100px;
+	margin: 0 auto;
+}
+
+p {
+	font-weight: 548;
+}
+
+#formulario {
+	margin: 0 auto;
+	width: 900px;
+	height: 225px;
+}
